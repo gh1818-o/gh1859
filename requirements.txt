@@ -1,9 +1,9 @@
-streamlit==1.32.0
-pandas==2.2.2
-numpy==1.26.4
+streamlit
+pandas
+numpy
 requests
 pykrx
 altair
 OpenDartReader
-FinanceDataReader==0.9.50
 lxml
+git+https://github.com/FinanceData/FinanceDataReader.git
