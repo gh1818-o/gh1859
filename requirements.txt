@@ -1,0 +1,9 @@
+streamlit
+pandas
+numpy
+requests
+pykrx
+altair
+OpenDartReader
+FinanceDataReader
+lxml
